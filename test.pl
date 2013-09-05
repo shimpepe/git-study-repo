@@ -8,3 +8,4 @@ use Data::Dumper;
 print "first\n";
 print "third\n";
 print "second\n";
+print "fourth\n";
